@@ -1,4 +1,3 @@
-<img width="1424" height="805" alt="6-combat-dense" src="https://github.com/user-attachments/assets/b5c05a24-979f-4294-82c1-a5c85a2ddae9" />
 # 孤星 LONESTAR
 
 **一个零依赖、单文件、双击即开的深空生存 Roguelite。同一份源码同时产出网页版和微信 / 抖音小游戏版。**
