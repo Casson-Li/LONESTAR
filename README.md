@@ -1,3 +1,4 @@
+<img width="1424" height="805" alt="6-combat-dense" src="https://github.com/user-attachments/assets/b5c05a24-979f-4294-82c1-a5c85a2ddae9" />
 # 孤星 LONESTAR
 
 **一个零依赖、单文件、双击即开的深空生存 Roguelite。同一份源码同时产出网页版和微信 / 抖音小游戏版。**
@@ -535,7 +536,9 @@ TapTap 是**H5 形态**（DOM 在，宿主只注入一个全局 `tap`），所�
 **打击感细节**：命中顿帧（hit-stop）、按伤害缩放的屏幕震动、暴击白闪、受击时把附近弹幕吹开、冲刺无敌帧、低血量脉冲红边、Boss 死亡连环爆炸、连击里程碑、通关时的 140 粒金色礼花。
 
 ---
-
+<img width="1424" height="805" alt="6-combat-dense" src="https://github.com/user-attachments/assets/b0079e20-e3a0-4268-87a7-b9ee16bb2267" />
+<img width="1424" height="805" alt="3-draft" src="https://github.com/user-attachments/assets/38283ffe-81e1-462b-a1ff-1aebeb6f2f38" />
+![Uploading 4-result.png…]()
 ---
 
 ## 许可
