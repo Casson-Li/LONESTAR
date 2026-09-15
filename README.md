@@ -538,7 +538,8 @@ TapTap 是**H5 形态**（DOM 在，宿主只注入一个全局 `tap`），所�
 ---
 <img width="1424" height="805" alt="6-combat-dense" src="https://github.com/user-attachments/assets/b0079e20-e3a0-4268-87a7-b9ee16bb2267" />
 <img width="1424" height="805" alt="3-draft" src="https://github.com/user-attachments/assets/38283ffe-81e1-462b-a1ff-1aebeb6f2f38" />
-![Uploading 4-result.png…]()
+<img width="1424" height="805" alt="4-result" src="https://github.com/user-attachments/assets/655adfbb-195f-43b5-9e32-adca7bd200fa" />
+
 ---
 
 ## 许可
